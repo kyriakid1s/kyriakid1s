@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [dimitriskyriakid1s.dev](dimitriskyriakid1s.dev)
+- 👨‍💻 All of my projects are available at [dimitriskyriakid1s.dev](https://www.dimitriskyriakid1s.dev/)
 
-- 📝 I regularly write articles on [dimitriskyriakid1s.dev/blog](dimitriskyriakid1s.dev/blog)
+- 📝 I regularly write articles on [dimitriskyriakid1s.dev/blog](https://www.dimitriskyriakid1s.dev/)blog)
 
-- 💬 Ask me about **React, Vue, Go, C, C++**
+- 💬 Ask me about **React, Vue, Go, C, C++, Python**
 
 - 📫 How to reach me **dimitriiskyr@gmail.com**
 
